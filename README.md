@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sigchi98
 - 👀 I’m interested in open source and web development
-- 🌱 I’m currently learning open source, web development and ethical hacking
+- 🌱 I’m currently learning Open Source, Web Development,Data Science,Ethical Hacking,etc.
 - 📫 How to reach me through email:sigchimohit@gmail.com or twitter : @SigchiMohit
 
 <!---
